@@ -124,18 +124,6 @@ OrbitEye V1 utilizes open-access satellite imagery derived from public benchmark
 
 ---
 
-## 📸 Screenshots
-
-*(Place screenshots of Landing Page, Detection Engine, AI Explainability, and Dashboard here)*
-
----
-
-## 🎥 Demo Video
-
-[Watch OrbitEye V1 Platform Walkthrough on YouTube](#) *(Link placeholder)*
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
