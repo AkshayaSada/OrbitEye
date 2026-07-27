@@ -75,7 +75,7 @@ OrbitEye V1 utilizes open-access satellite imagery derived from public benchmark
 
 1. **Clone or Navigate to the Workspace**:
    ```bash
-   cd "C:\Users\AKSHAYA SADASIVAN\.gemini\antigravity\scratch\OrbitEye"
+   cd "C:\Users\AKSHAYA SADASIVAN\OrbitEye"
    ```
 
 2. **Create and Activate Virtual Environment**:
