@@ -102,28 +102,6 @@ OrbitEye V1 utilizes open-access satellite imagery derived from public benchmark
 
 ---
 
-## 🗺 Platform Roadmap
-
-### 🟢 Version 1.0 (Current Release)
-- [x] MobileNetV2 transfer learning engine
-- [x] Affected Area Estimation engine (<20%, 20-50%, >50%)
-- [x] Bi-temporal change detection
-- [x] AI Explainability rules & segmentation masks
-- [x] Interactive Folium maps & PDF reports
-- [x] Plotly dashboard & persistent analysis history
-
-### 🟡 Version 2.0 (Planned)
-- [ ] Multispectral GeoTIFF band math (NDVI, NDWI, NBR computation)
-- [ ] YOLOv8 object detection for vehicle and building damage counts
-- [ ] Real-time Sentinel-Hub API integration for live satellite querying
-
-### 🔴 Version 3.0 (Future Vision)
-- [ ] Autonomous satellite swarm alert triggers via Webhooks
-- [ ] Automated 3D elevation point cloud generation (LiDAR/Stereo SAR)
-- [ ] Multi-tenant emergency response team dispatch dashboard
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
